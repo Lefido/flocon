@@ -4,8 +4,7 @@ var c = canvas.getContext("2d");
 canvas.width = 1500;
 canvas.height = 700;
 
-
-var numStars = 2500;
+var numStars = 3000;
 var stars = [];
 var size = 0.4;
 var centerX = canvas.width / 2;
