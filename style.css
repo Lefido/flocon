@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+#canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+  border: 1px solid white;
+}
+
+/*# sourceMappingURL=style.scss.map */
+/*# sourceMappingURL=style.scss.map */
+
+/*# sourceMappingURL=style.css.map */
